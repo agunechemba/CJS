@@ -61,8 +61,6 @@ To run it, simply open `index.html` in any modern browser.
 
 This book is meant to be read together. Encourage the young programmer to type the examples into a browser console, break them, fix them, and make them their own. Every programmer, every day, writes mistakes — that is how we learn.
 
-
-# [READ BOOK](https://agunechemba.name.ng/CJS/)
 ---
 
 *Keep building. Keep breaking. Keep learning.*
